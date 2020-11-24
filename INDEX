@@ -1,0 +1,12 @@
+{
+    "rslsync": {
+        "MANIFEST": "rslsync.json",
+        "name": "Resilio Sync",
+        "icon": "https://icons.freenas.org/community-icons/rslsync.png",
+        "description": "Resilient, fast and scalable file sync software for enterprises and individuals.",
+        "official": false,
+        "primary_pkg": "null",
+        "category": "content",
+        "homepage": "https://www.resilio.com/"
+    }
+}
