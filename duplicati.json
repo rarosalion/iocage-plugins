@@ -3,7 +3,8 @@
     "release": "13.3-RELEASE",
     "artifact": "https://github.com/rarosalion/iocage-plugin-duplicati.git",
     "properties": {
-        "dhcp": 1
+        "nat": 1,
+        "nat_forwards": "tcp(8200:8200)"
     },
     "pkgs": [
         "mono",
