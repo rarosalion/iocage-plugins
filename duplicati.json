@@ -7,7 +7,7 @@
         "nat_forwards": "tcp(8200:8200)"
     },
     "pkgs": [
-        "mono",
+        "mono6.8-6.8.0.123_3",
         "py27-sqlite3",
         "ca_root_nss"
     ],
