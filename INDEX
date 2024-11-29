@@ -8,5 +8,14 @@
         "primary_pkg": "null",
         "category": "content",
         "homepage": "https://www.resilio.com/"
-    }
+    },
+	"duplicati": {
+		"MANIFEST": "duplicati.json",
+		"name": "Duplicati",
+		"description": "Duplicati 2.0 Store securely encrypted backups on cloud storage services!",
+		"official": false,
+		"icon": "https://icons.freenas.org/community-icons/duplicati.png",
+		"primary_pkg": "",
+		"category": "backup"
+	}
 }
